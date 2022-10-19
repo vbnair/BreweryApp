@@ -1,0 +1,30 @@
+.beer {
+    padding: var(--gap);
+    font-size: 16px;
+    background-color: #90CAF9;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.beer img {
+    object-fit: contain;
+    object-position: center center;
+    margin-right: var(--gap);
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.beer .name {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.beer .tagline {
+    font-style: italic;
+    opacity: 0.7;
+}
