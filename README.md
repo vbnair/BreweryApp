@@ -1,3 +1,8 @@
+### BreweryApp built on Angular using punkAPI
+* Find the deployed site on [Netlify](https://celadon-griffin-f9afc3.netlify.app)
+<img src="brewery_punkapi.png" width="450" height="360">
+
+
 # Beer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
